@@ -7,7 +7,10 @@ int main(){
     cout << sizeof(age) << endl;
     char grade = 'a';
     cout <<grade <<endl;
-    float marks = 97.5;
-    cout << marks <<endl; 
-
+    float marks = 97.5f;
+    cout << marks << endl;
+    bool issafe = true;
+    cout << issafe << endl;
+    double price = 100.99;
+    cout << price << endl;
 }
